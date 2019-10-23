@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a3e63e91f508f3241b4e1de01a99ef72
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spaceport One
+  fontNames:
+  - Spaceport One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9481c810fd358884fa7a4e80a9c0ce91, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
